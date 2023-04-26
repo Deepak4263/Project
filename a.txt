@@ -1,1 +1,7 @@
-welcome
+class Hello
+{
+public static voi main(String args[])
+{
+System.out.pintln("welcome to git");
+}
+}
